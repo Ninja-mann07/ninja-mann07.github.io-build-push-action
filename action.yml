@@ -1,4 +1,4 @@
-# https://help.github.com/en/articles/metadata-syntax-for-github-actions
+  # https://help.github.com/en/articles/metadata-syntax-for-github-actions
 name: Build and push Docker images
 description: Build and push Docker images with Buildx
 author: docker
